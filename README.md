@@ -1,2 +1,2 @@
 # test1
-![GitHub Logo](/images/ETEP1.png)
+![ETEP1](/images/ETEP1.png)
