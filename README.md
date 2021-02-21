@@ -1,2 +1,2 @@
 # test1
-This is a test
+![GitHub Logo](/test1/images/ETEP2.png)
